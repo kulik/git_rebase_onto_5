@@ -1,6 +1,4 @@
 first line
 second line
-third line
 fifth line
-sixth line
 seventh line
